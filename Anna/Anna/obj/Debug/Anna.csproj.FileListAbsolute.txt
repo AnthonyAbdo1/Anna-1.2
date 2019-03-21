@@ -1,0 +1,14 @@
+C:\Users\Anthony\source\repos\Anna\Anna\bin\Debug\Anna.exe.config
+C:\Users\Anthony\source\repos\Anna\Anna\bin\Debug\Anna.exe
+C:\Users\Anthony\source\repos\Anna\Anna\bin\Debug\Anna.pdb
+C:\Users\Anthony\source\repos\Anna\Anna\obj\Debug\Anna.NavigationMenu.resources
+C:\Users\Anthony\source\repos\Anna\Anna\obj\Debug\Anna.LogToServer.resources
+C:\Users\Anthony\source\repos\Anna\Anna\obj\Debug\Anna.Properties.Resources.resources
+C:\Users\Anthony\source\repos\Anna\Anna\obj\Debug\Anna.ReadServerNotes.resources
+C:\Users\Anthony\source\repos\Anna\Anna\obj\Debug\Anna.TempConverter.resources
+C:\Users\Anthony\source\repos\Anna\Anna\obj\Debug\Anna.WeightConverter.resources
+C:\Users\Anthony\source\repos\Anna\Anna\obj\Debug\Anna.WriteToFileForm.resources
+C:\Users\Anthony\source\repos\Anna\Anna\obj\Debug\Anna.csproj.GenerateResource.cache
+C:\Users\Anthony\source\repos\Anna\Anna\obj\Debug\Anna.csproj.CoreCompileInputs.cache
+C:\Users\Anthony\source\repos\Anna\Anna\obj\Debug\Anna.exe
+C:\Users\Anthony\source\repos\Anna\Anna\obj\Debug\Anna.pdb
